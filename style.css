@@ -1,10 +1,10 @@
 .container {
 	text-align: center;
-	background-color: black;
+	background-color: gray;
 	color: lightpink;
 	
 
 
 .foxpicture{
-	margin: 0 auto;
+	margin: 3 auto;
 }
